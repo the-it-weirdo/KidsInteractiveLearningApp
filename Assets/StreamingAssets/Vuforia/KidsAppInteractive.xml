@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Shark-picture" size="100.000000 91.875000" />
+    <ImageTarget name="Rabbit-picture" size="100.000000 77.777779" />
+    <ImageTarget name="Lion-picture" size="100.000000 73.076920" />
+    <ImageTarget name="Horse-picture" size="100.000000 88.356163" />
+    <ImageTarget name="Elephant-picture" size="100.000000 89.682541" />
+    <ImageTarget name="Dog-picture" size="100.000000 114.529915" />
+    <ImageTarget name="Cat-picture" size="100.000000 62.913906" />
+    <ImageTarget name="cylinder-text" size="100.000000 64.117645" />
+    <ImageTarget name="sphere-text" size="100.000000 54.545456" />
+    <ImageTarget name="cube-text" size="100.000000 61.855671" />
+    <ImageTarget name="Fish-picture" size="100.000000 72.222221" />
+    <ImageTarget name="Crab-picture" size="100.000000 77.664978" />
+    <ImageTarget name="Pyramid-picture" size="100.000000 77.259888" />
+    <ImageTarget name="Cylinder-picture" size="100.000000 98.958336" />
+    <ImageTarget name="Cube-coloured" size="100.000000 72.222221" />
+    <ImageTarget name="Cube-outline" size="100.000000 72.222221" />
+    <ImageTarget name="Cube-picture" size="100.000000 98.958336" />
+    <ImageTarget name="Cone-picture" size="100.000000 121.271927" />
+  </Tracking>
+</QCARConfig>
