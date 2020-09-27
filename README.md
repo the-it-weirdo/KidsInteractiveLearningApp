@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <!-- <td><img src="git_resources/splash_screen.jpeg"/></td> -->
-    <td><a href="https://youtu.be/uI89OgnbVXo" target="blank">
+    <td><a href="https://youtu.be/uI89OgnbVXo" target="_blank">
     <img src="https://img.youtube.com/vi/uI89OgnbVXo/maxresdefault.jpg" height="350px"/></a>
     </td>
   </tr>
@@ -30,8 +30,8 @@
 
 ## Built With 🛠
 <div>
-  <a href="https://unity.com/" target="blank"><img src="git_resources/unity_icon.jpg" height="100px"/></a>
-  <a href="https://developer.vuforia.com/" target="blank"><img src="git_resources/vuforia_icon.jpg" height="100px"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="git_resources/unity_icon.jpg" height="100px"/></a>
+  <a href="https://developer.vuforia.com/" target="_blank"><img src="git_resources/vuforia_icon.jpg" height="100px"/></a>
 </div>
 
 - [Unity](https://unity.com/) - Unity is a cross-platform game engine developed by Unity Technologies.
